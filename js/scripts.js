@@ -1,4 +1,4 @@
-/* bbauska/timeline-images/js/scripts.js making timeline-images.bauska.org */
+/* ./js/scripts.js of UFO-Timeline-images for timeline-images.bauska.org */
 $(document).ready(function(){
   var my_posts = $("[rel=tooltip]");
   var size = $(window).width();
